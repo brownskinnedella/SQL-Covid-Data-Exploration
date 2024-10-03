@@ -1,3 +1,2 @@
 # SQL-Covid-Data-Exploration
-In this project, I used SQL for data exploration of the Covid dataset I downloaded from ourworldindata.org/covid-deaths.
-Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types.
+In this project, I explored the COVID dataset from ourworldindata.org using SQL to uncover valuable insights. I applied advanced SQL techniques, including Joins, Common Table Expressions (CTEs), Temporary Tables, Window Functions, Aggregate Functions, and Data Type Conversions. Additionally, I created views to streamline data analysis and enhance query performance.
